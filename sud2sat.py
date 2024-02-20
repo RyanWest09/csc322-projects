@@ -113,5 +113,4 @@ for value in range(1,10):
 write_to_output()
 
 
-print(clause_list)
-print(len(clause_list))
+
