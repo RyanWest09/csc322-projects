@@ -15,7 +15,7 @@ def main():
 
 def unsatisifiable():
   w = open(sys.argv[2],"w")
-  w.write("Puzzle is not Satifiable")
+  w.write("Puzzle is not Satisfiable")
 
 
 def write_out(assigns):
