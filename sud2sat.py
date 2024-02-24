@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import fileinput
 import textwrap
 import sys
