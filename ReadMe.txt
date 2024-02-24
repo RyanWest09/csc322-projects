@@ -48,7 +48,7 @@ If the puzzle is not satisfiable solution.txt will contain "Puzzle is not Satisf
 
 Instructions to run extended encoding implementations "sud2sat3.py" and "sat2sud.py"
 
-The script is written in python and employs for loops to generate the efficient encoding
+The script is written in python and employs for loops to generate the extended encoding
 
 To execute the Script on the Uvic Linux servers Use:
 
