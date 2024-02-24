@@ -174,19 +174,19 @@ for row in range(1,10):
 #extended encoding 
 #least once per row constraint
 for row in range(1,10):
-  for value in range(1,9):
+  for value in range(1,10):
     least_once_per_row(row,value)
 
 #least once per column constraint
 for column in range(1,10):
-  for value in range(1,9):
+  for value in range(1,10):
     least_once_per_column(column,value)
 
 #least once per subgrid constraint
 #we iterate through 1, 4, 7 as the top left starting points of the subgrid for each row and column
 for row in range(1, 8, 3):  
   for column in range(1, 8, 3):
-    for value in range(1,9):
+    for value in range(1,10):
       least_once_per_subgrid(row, column, value)
 
 
