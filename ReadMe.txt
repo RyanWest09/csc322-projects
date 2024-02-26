@@ -2,8 +2,7 @@ Group Members
 Ryan West V00955247
 Chase Cassels V00916567
 Joshua Lee V00875102
-
-
+Bipasa Agrawal V00936703
 
 
 
@@ -22,7 +21,6 @@ To execute the Script on the Uvic Linux servers Use:
 
 If the puzzle is satifiable then the solved puzzle will be written to solution.txt
 If the puzzle is not satisfiable solution.txt will contain "Puzzle is not Satisfiable"
-
 
 
 
