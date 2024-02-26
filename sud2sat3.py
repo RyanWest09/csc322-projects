@@ -104,7 +104,7 @@ def once_per_sub_grid2(grid_row,grid_column,value):
 
 def write_to_output():
   w = open(sys.argv[2],"w")
-  w.write("p cnf 999 " + (str(len(clause_list)) + "\n"))
+  w.write("p cnf 729 " + (str(len(clause_list)) + "\n"))
   for row in clause_list:
     s = ' '.join(row)
     s = s + " 0\n"
